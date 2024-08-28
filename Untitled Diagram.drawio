@@ -10,10 +10,10 @@
         <mxCell id="77e6c97f196da883-2" value="IntputReader" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="290" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-8" value="device event" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="77e6c97f196da883-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;device event&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="65" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-9" value="add/confing device&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="77e6c97f196da883-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;add/confing device&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="155" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9yKA14wSQdZvjCn7Q2hP-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-2" target="77e6c97f196da883-9">
@@ -28,43 +28,43 @@
             <mxPoint x="70" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9yKA14wSQdZvjCn7Q2hP-51" value="&lt;div&gt;INPUT MAPPER&lt;/div&gt;bind device to display" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
+        <mxCell id="9yKA14wSQdZvjCn7Q2hP-51" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;INPUT MAPPER&lt;/font&gt;&lt;/div&gt;&lt;font size=&quot;3&quot;&gt;bind device to display&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="220" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-15" value="volue keyEvent" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="77e6c97f196da883-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;volue keyEvent&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="305" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9yKA14wSQdZvjCn7Q2hP-81" value="touch event" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
+        <mxCell id="9yKA14wSQdZvjCn7Q2hP-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;touch event&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="389" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="I&lt;span style=&quot;background-color: initial;&quot;&gt;nputdispatcher&lt;/span&gt;" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="290" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-17" value="volue&amp;nbsp; keyevent" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
+        <mxCell id="77e6c97f196da883-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;volume&amp;nbsp; keyevent&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="30" y="305" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9yKA14wSQdZvjCn7Q2hP-82" value="touch event" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
+        <mxCell id="9yKA14wSQdZvjCn7Q2hP-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;touch event&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="30" y="389" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="InputManagerService" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="450" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="9yKA14wSQdZvjCn7Q2hP-50" value="bind device to display" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
+        <mxCell id="9yKA14wSQdZvjCn7Q2hP-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;bind device to display&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="30" y="220" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-6" value="Systemui" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="610" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="9yKA14wSQdZvjCn7Q2hP-74" value="bind device to display" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-6">
+        <mxCell id="9yKA14wSQdZvjCn7Q2hP-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;bind device to display&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="30" y="304" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="APP/Setings" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="770" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="9yKA14wSQdZvjCn7Q2hP-68" value="bind device to display" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
+        <mxCell id="9yKA14wSQdZvjCn7Q2hP-68" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;bind device to display&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
           <mxGeometry x="40" y="220" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9yKA14wSQdZvjCn7Q2hP-85" value="bind device to display" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
+        <mxCell id="9yKA14wSQdZvjCn7Q2hP-85" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;hand event&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
           <mxGeometry x="30" y="389" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9yKA14wSQdZvjCn7Q2hP-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="9yKA14wSQdZvjCn7Q2hP-68" target="9yKA14wSQdZvjCn7Q2hP-50">
